@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Cap¡tulo 1: Introducci¢n a Github\nCap¡tulo 2: Flujo de trabajo b sico\nCap¡tulo 3: Repositorios remotos" 
+=======
+"Cap¡tulo 1: Introducci¢n a Github\nCap¡tulo 2: Flujo de trabajo b sico\nCap¡tulo 3: Gesti¢n de ramas\nCap¡tulo 4: Repositorios remotos" 
+>>>>>>> Libro
